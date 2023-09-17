@@ -43,8 +43,8 @@ function App() {
     const options = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': 'e905676357mshfe2c00ee734c419p1a0227jsnb2a193367d67',
-        'X-RapidAPI-Host': 'weatherapi-com.p.rapidapi.com'
+        'X-RapidAPI-Key': '',
+        'X-RapidAPI-Host': ''
       }
     };
     try {
